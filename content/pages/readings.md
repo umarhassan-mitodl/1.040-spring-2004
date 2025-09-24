@@ -16,14 +16,14 @@ There are [required](#Required_Reading) and [recommended](#Recommended_Readin
 The required reading material will be drawn from three sources:
 
 *   The (unfinished) draft of the book: Peña-Mora, F., C. Anumba, J. Lyneis, L. Soibelman, M. Park, M. Samii, and K. Kalligeros. _System and Project Management._ MIT/Prentice Hall Textbook Series on Civil, Environmental and Systems Engineering. Prior to each lecture, the corresponding chapter of the book will be provided to students. Please do the required reading before each lecture.
-*   The online textbook: Hendrickson, Chris. _Project Management for Construction._ The book is available for viewing [online](https://www.cmu.edu/cee/projects/PMbook/) at no charge. ( An earlier edition is published in bound form by Prentice Hall (1989, ISBN: 0-13-731266-0) with co-author Tung Au and can still be ordered if students wish to have a hardcopy.)
+*   The online textbook: Hendrickson, Chris. _Project Management for Construction._ The book is available for viewing {{% resource_link "1369d756-04a5-43ce-a1b9-e29dc6a095bb" "online" %}} at no charge. ( An earlier edition is published in bound form by Prentice Hall (1989, ISBN: 0-13-731266-0) with co-author Tung Au and can still be ordered if students wish to have a hardcopy.)
 *   The book: O'Leary, and Acret. _Construction Nightmares._ BNI Publications Inc, 2001. ISBN: 1-55701-298-9. This book contains a series of stories (based on real-life incidents). The stories can be discussed in recitation, office hours or (by request) at designated periods in lecture.
 
 In addition to the required reader, or when the required reader does not cover the material taught in class, there will also be printed materials to be handed out at the beginning of each class.
 
 ### Course Introduction, Project Context
 
-Hendrickson, Chris. Chapter 1 in [Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/). Last Updated in Summer 2003.
+Hendrickson, Chris. Chapter 1 in {{% resource_link "1369d756-04a5-43ce-a1b9-e29dc6a095bb" "Project Management for Construction" %}}. Last Updated in Summer 2003.
 
 O'Leary, A., and J. Acret. Chapters 12 and 27 in _Construction Nightmares._ BNI Publications Inc, 2001. ISBN: 1-55701-298-9.
 
@@ -61,7 +61,7 @@ Peña-Mora, F., C. Anumba, J. Lyneis, L. Soibelman, M. Park, M. Samii, and K.
 
 ### Bid Job
 
-Hendrickson, Chris. Section 8.6-8.7 in [Project Management for Construction](http://www.ce.cmu.edu/pmbook/). Last Updated in Summer 2003.
+Hendrickson, Chris. Section 8.6-8.7 in {{% resource_link "56a3e00b-b351-4e2c-b7af-c4d5cc9b5003" "Project Management for Construction" %}}. Last Updated in Summer 2003.
 
 O'Leary, A., and J. Acret. Chapter 5 in _Construction Nightmares._ BNI Publications Inc, 2001. ISBN: 1-55701-298-9.
 
@@ -71,7 +71,7 @@ O'Leary, A., and J. Acret. Chapter 19 in _Construction Nightmares._ BNI Publica
 
 ### Façade Scheduling (Pietroforte) — Guest Lecturer
 
-Hendrickson, Chris. Section 3.11 in [Project Management for Construction](http://www.ce.cmu.edu/pmbook/). Last Updated in Summer 2003.
+Hendrickson, Chris. Section 3.11 in {{% resource_link "56a3e00b-b351-4e2c-b7af-c4d5cc9b5003" "Project Management for Construction" %}}. Last Updated in Summer 2003.
 
 ### Probabilistic Planning - Part I
 
@@ -103,7 +103,7 @@ Peña-Mora, F., C. Anumba, J. Lyneis, L. Soibelman, M. Park, M. Samii, and K.
 
 ### Project Control - Conflict Management
 
-Hendrickson, Chris. Section 8.9 in [Project Management for Construction](http://www.ce.cmu.edu/pmbook/). Last Updated in Summer 2003.
+Hendrickson, Chris. Section 8.9 in {{% resource_link "56a3e00b-b351-4e2c-b7af-c4d5cc9b5003" "Project Management for Construction" %}}. Last Updated in Summer 2003.
 
 O'Leary, A., and J. Acret. Chapter 5 in _Construction Nightmares._ BNI Publications Inc, 2001. ISBN: 1-55701-298-9.
 
@@ -126,7 +126,7 @@ For each topic studied, there will be supplemental references and bibliography. 
 
 Schtub, A., J. Bard, and S. Globerson. _Project Management: Engineering Technology, and Implementation._ New York, NY: Prentice Hall, 1994. Sections 5.1 through 5.3.
 
-Iansiti, M., and A. MacCormack. _[Developing Products on Internet Time](https://hbr.org/1997/09/developing-products-on-internet-time/sb1)._ Harvard Business School Press, 1997. ISBN: B00005RZ6Z.
+Iansiti, M., and A. MacCormack. _{{% resource_link "d7a4bcee-ff9c-4329-a4c7-59184e0cd98c" "Developing Products on Internet Time" %}}._ Harvard Business School Press, 1997. ISBN: B00005RZ6Z.
 
 Ward et. al. "The Second Toyota Paradox: How Delaying Decisions Can Make Better Cars Faster." _Sloan Management Review_ 36, no. 3 (1995): 43-61.
 
@@ -250,6 +250,6 @@ Meredith, J., and S. Mantel. Chapter 13 in _Project Management: A Managerial A
 
 System Dynamics
 
-Sterman, J. [System Dynamics Modeling for Project Management](http://web.mit.edu/jsterman/www/SDG/project.html). 2000.
+Sterman, J. {{% resource_link "a24d12ee-3cd4-4677-a514-f1572ae9687e" "System Dynamics Modeling for Project Management" %}}. 2000.
 
 ———.  _Business Dynamics._  Boston, MA: McGraw-Hill, 2000. ISBN: 007238915X.
